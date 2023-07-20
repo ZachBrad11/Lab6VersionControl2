@@ -1,3 +1,4 @@
+# Zachary Bradley
 def encode(password):  # encodes a password by adding 3 to each number (Coded by: Zachary Bradley)
     output_password = ""  # output will be a string
     for number in password:
